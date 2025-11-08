@@ -56,12 +56,3 @@ AWS-CICD/
 5. appspec.yml: This file is used by AWS CodeDeploy to manage the deployment process. It specifies the deployment actions and lifecycle hooks.
 
 6. buildspec.yml: This file is used by AWS CodeBuild to define the build process. It contains commands and settings for building and testing your application.
-
-## Contributors 
-<a href="https://github.com/mohitjaiswal28/AWS-CICD/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mohitjaiswal28/AWS-CICD" />
-</a>
-
-
- 
-
